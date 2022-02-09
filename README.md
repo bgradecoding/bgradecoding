@@ -9,7 +9,7 @@
 ### solutions
 
 ### Platforms & Languages
-
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 
 <!--
 **bgradecoding/bgradecoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
