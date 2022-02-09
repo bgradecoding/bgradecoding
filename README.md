@@ -1,10 +1,4 @@
 ### Hi there 👋 I'm a Data-driven Developer who measures and develops business functional performance and IT performance based on data.
-### Analyze or process and visualize data from behavioral data analysis solutions such as Google Analytics, Adobe Analytics, Mix Panel, and Amplitude.
-### And Identify the overall business customer experience for the product and derive a code solution.
-### We use solutions such as Google Optimize and firebase to perform A/B testing and analyze the results to find better winners.
-### I am also interested in the theoretical part and statistical interpretation of A/B testing.
-### I interested in nodejs based backend coding to get some basic backend knowledge that I need to know from front-end developer.
-### It also utilizes python code for basic statistical utilization for data analysis.
 
 <!--
 **bgradecoding/bgradecoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
