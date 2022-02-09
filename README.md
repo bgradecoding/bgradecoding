@@ -1,5 +1,7 @@
-### Hi there 👋 I'm a Data-driven Developer.
-#### I'm interested in development that considers business and IT performance based on data rather than simple function development.
+### Hi there 👋 I'm a Data-driven Developer.🤖
+#### 👨‍💻👨‍💻👨‍💻 I have a front-end technical base.
+#### 🤔🤔🤔 I'm interested in development that considers business and IT performance based on data.
+
 
 <!--
 **bgradecoding/bgradecoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
