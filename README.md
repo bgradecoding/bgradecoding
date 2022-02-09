@@ -7,6 +7,7 @@
 ## 💪🏽 skills
 
 ### solutions
+<img src="https://pluralsight2.imgix.net/paths/images/adobeanalytics-3c597d8394.png" alt="adobeanalytics" width="40" height="40"/>
 
 ### Platforms & Languages
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
