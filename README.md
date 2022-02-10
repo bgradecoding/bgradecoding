@@ -4,6 +4,8 @@
 #### ✔️🔙🔚 I use NodeJS to acquire back-end knowledge as a front-end developer.
 #### ✔️♋️♋️ I also utilize Python Code for basic statistical data analysis.
 
+
+
 ## 💪🏽 skills
 
 ### solutions
