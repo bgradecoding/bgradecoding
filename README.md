@@ -10,5 +10,5 @@
 <img src="https://pluralsight2.imgix.net/paths/images/adobeanalytics-3c597d8394.png" alt="adobeanalytics" width="40" height="40"/>
 
 ### Platforms & Languages
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
+<img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=React&logoColor=white"/>
 	
