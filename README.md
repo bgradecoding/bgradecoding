@@ -10,6 +10,5 @@
 <img src="https://pluralsight2.imgix.net/paths/images/adobeanalytics-3c597d8394.png" alt="adobeanalytics" width="40" height="40"/>
 
 ### Platforms & Languages
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 	
